@@ -17,6 +17,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Frameworks & Database**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,5 +35,6 @@
 | Project | Stack | Status & Description |
 | :--- | :--- | :--- |
 | **[Portfolio Website](https://anjan-portfolio-seven.vercel.app/)** | `React` `Vercel` | <img src="https://img.shields.io/badge/Live-38bdf8?style=flat-square" /> Personal developer portfolio showcasing my projects, stack, and background. |
-| **[File Organizer](https://github.com/Anjankumar007/file-organiser)** | `Python` `Watchdog` | <img src="https://img.shields.io/badge/Utility-38bdf8?style=flat-square" /> Lightweight background script that automatically watches directories and sorts files by extension with collision and temporary file guards. |
+| **[2D Maze Runner](https://mazerunner-2d.vercel.app/)** | `JavaScript` `Vite` `Canvas` | <img src="https://img.shields.io/badge/Live-38bdf8?style=flat-square" /> Browser-based game featuring real-time A* pathfinding and autonomous enemy AI. |
+| **[File Organizer](https://github.com/Anjankumar007/file-organiser)** | `Python` `Watchdog` | <img src="https://img.shields.io/badge/Utility-38bdf8?style=flat-square" /> Lightweight background script that automatically watches directories and sorts files by extension. |
 | **Batcave** | `FastAPI` `Groq LLM` `Python` | <img src="https://img.shields.io/badge/In_Development-f59e0b?style=flat-square" /> Tactical OSINT dashboard and intelligence utility currently being built. |
