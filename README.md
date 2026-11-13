@@ -29,21 +29,10 @@
 
 ---
 
-### 🛠️ Projects & WIPs
+### 🛠️ Projects & Utilities
 
 | Project | Stack | Status & Description |
 | :--- | :--- | :--- |
 | **[Portfolio Website](https://anjan-portfolio-seven.vercel.app/)** | `React` `Vercel` | <img src="https://img.shields.io/badge/Live-38bdf8?style=flat-square" /> Personal developer portfolio showcasing my projects, stack, and background. |
+| **[File Organizer](https://github.com/Anjankumar007/file-organiser)** | `Python` `Watchdog` | <img src="https://img.shields.io/badge/Utility-38bdf8?style=flat-square" /> Lightweight background script that automatically watches directories and sorts files by extension with collision and temporary file guards. |
 | **Batcave** | `FastAPI` `Groq LLM` `Python` | <img src="https://img.shields.io/badge/In_Development-f59e0b?style=flat-square" /> Tactical OSINT dashboard and intelligence utility currently being built. |
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anjankumar007&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjankumar007&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f8fafc&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
